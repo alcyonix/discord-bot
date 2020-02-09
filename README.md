@@ -1,4 +1,5 @@
 # discord-bot
+VIEW IN RAW
 ======================================================================================
 INTRODUCTION TO REPOSITORY
   This repository is for all discord.js functions. 
