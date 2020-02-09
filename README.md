@@ -1,9 +1,9 @@
 # discord-bot
-==========================================================================================================================================
+======================================================================================
 INTRODUCTION TO REPOSITORY
   This repository is for all discord.js functions. 
   Language used is JavaScript.
-  Please drop all your codes 
+  Please drop all your codes that may be useful for bot programming.
   
   Some simple rules to follow:
 - branch name to be significant to code
@@ -14,6 +14,6 @@ INTRODUCTION TO REPOSITORY
 - comment on what each part of a code does after the function
 
   More rules may be added in the future
-
+  
   Contribution is greatly appreciated as I am at a beginner level coding in terms of JavaScript.
-  ========================================================================================================================================
+  ======================================================================================
